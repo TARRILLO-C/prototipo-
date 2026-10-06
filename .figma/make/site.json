@@ -1,0 +1,10 @@
+{
+  "description": "Conecta tiendas locales con comedores comunitarios para rescatar y distribuir alimentos sobrantes, reduciendo el desperdicio y apoyando a quienes lo necesitan.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
